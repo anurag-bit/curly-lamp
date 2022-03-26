@@ -8,7 +8,7 @@ export default function Footer() {
           className='underline text-black dark:text-white font-semibold'
           href='https://github.com/cristicretu'
         >
-          Cristian Crețu
+          Anurag Singh
         </a>
         . Deployed with{' '}
         <a

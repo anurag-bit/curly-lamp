@@ -26,7 +26,7 @@ export default function BigText({ slides }: BigTextProps) {
     <div className='text-6xl md:text-9xl font-extrabold tracking-tight flex flex-col items-center'>
       <div className='flex flex-col items-center'>
         <p className='mt-4 sm:text-3xl text-2xl tracking-normal'>
-          The ultimate
+          Hey!, I'm
         </p>
         {slides.map((text, index) => {
           return (
@@ -55,10 +55,11 @@ export default function BigText({ slides }: BigTextProps) {
           )
         })}
         <p className='mt-4 sm:text-3xl text-2xl tracking-normal'>
-          Front-End Template.
+          A Student, Developer, Blogger.
         </p>
         <p className='mt-6 text-lg font-medium tracking-normal'>
-          🚀 Edit pages/index.tsx to get started.
+        🚀A 16yr old,<br></br>
+          on his way to make his dent in the universe.
         </p>
       </div>
     </div>
